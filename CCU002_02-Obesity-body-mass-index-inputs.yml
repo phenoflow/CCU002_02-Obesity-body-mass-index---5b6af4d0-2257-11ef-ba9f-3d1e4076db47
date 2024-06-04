@@ -1,0 +1,18 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu002_02-obesity-body-mass-index-bmi-class---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-obesity-body-mass-index-bmi-centile---primary.py
+inputModule4:
+  class: File
+  path: python/body---primary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
